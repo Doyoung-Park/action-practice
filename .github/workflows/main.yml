@@ -30,5 +30,4 @@ jobs:
         run: pwd
       - name: Run ls -al
         run: ls -al
-      - name: first.js 파일 실행
-        run: node first.js
+
